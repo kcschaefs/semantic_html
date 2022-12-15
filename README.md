@@ -24,7 +24,7 @@ A marketing agency wants to update their code base to better follow accessibilit
 ## Learnings
 - Sometimes coding per "best practice" (lines breaks, etc.) can make the code harder for others to read. It's ok to change best practice code formats to make things easier to read/update.
 
-- Just because something *can* be coded a certain way, doesn't mean it is the best/most optimized way. 
+- Just because something *can* be coded a certain way, doesn't mean it is the best/most optimized way. `
 
 - Using semantic tags can make your pages more accessible for those using screen readers as well as helping them to perform better on search engines.
 
